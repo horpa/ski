@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e38457a19894a46ca8b6fbc7e815c585
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pineObject: {fileID: 100000, guid: bc07fed937de84620bf0809c6aa30468, type: 2}
+  - color0: {instanceID: 0}
+  - color1: {instanceID: 0}
+  - color2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
